@@ -1,4 +1,4 @@
-# The Finance Library
+# Finance Library: Financial Models & Analytics Toolkit
 This project focuses on applying financial theory through data-driven Python tools.
 
 It covers portfolio performance analysis, risk metrics, Monte Carlo simulations, CAPM-based expected returns and Markowitz optimization, with an emphasis on clarity, 
